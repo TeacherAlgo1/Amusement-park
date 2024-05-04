@@ -1,0 +1,28 @@
+header{
+    background-color: #8FA2CA;
+    display: flex;
+    justify-content: space-between;
+}
+img{
+    width: 350px;
+    height: 200px;
+}
+.afall{
+    text-align: center;
+    font-size: 30px;
+}
+p{
+    font-size: 19px;
+}
+.mars{
+    text-align: center;
+    font-size: 30px;
+}
+.zepochnaya{
+    text-align: center;
+    font-size: 30px;
+}
+.tornado{
+    text-align: center;
+    font-size: 30px;
+}
